@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorCanvas">#ffffff</color>
+    <color name="colorGuideText">#eeeeee</color>
+    <color name="colorStroke">#00abf9</color>
+    <string name="app_name">Handwriting Recognition Example</string>
+    <string name="chinese">Chinese</string>
+    <string name="clear">Clear</string>
+    <string name="english">English</string>
+    <string name="japanese">Japanese</string>
+    <string name="koreanEnglish">Korean + English</string>
+    <string name="recognize">Recognize</string>
+    <string name="writeHere">Write here.</string>
+</resources>

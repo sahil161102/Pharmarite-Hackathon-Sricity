@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\handwriting-recognition-example-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko-rKR\\values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\AndroidStudioProjects\\handwriting-recognition-example-android\\app\\src\\main\\res\\values-ko-rKR\\strings.xml",
+                    "from": {
+                        "startLines": "1,4,7,3,5,2,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,155,282,115,196,63,238,321",
+                        "endColumns": "44,39,37,38,40,50,42,48",
+                        "endOffsets": "57,190,315,149,232,109,276,365"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,140,178,217,258,309,352",
+                        "endColumns": "44,39,37,38,40,50,42,48",
+                        "endOffsets": "95,135,173,212,253,304,347,396"
+                    }
+                }
+            ]
+        }
+    ]
+}

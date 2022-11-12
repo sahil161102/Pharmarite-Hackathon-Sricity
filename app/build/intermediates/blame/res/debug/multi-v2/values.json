@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\handwriting-recognition-example-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\AndroidStudioProjects\\handwriting-recognition-example-android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,2,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,87,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,58,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,141,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "196,265,309,349,393,439,498,546",
+                        "endColumns": "68,43,39,43,45,58,47,49",
+                        "endOffsets": "260,304,344,388,434,493,541,591"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\AndroidStudioProjects\\handwriting-recognition-example-android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,150",
+                        "endColumns": "45,48,45",
+                        "endOffsets": "96,145,191"
+                    }
+                }
+            ]
+        }
+    ]
+}

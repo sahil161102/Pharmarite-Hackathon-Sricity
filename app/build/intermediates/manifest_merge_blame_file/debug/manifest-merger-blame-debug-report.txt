@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.selvasai.handwriting"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:7:5-18:19
+12        android:allowBackup="false"
+12-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:8:9-36
+13        android:debuggable="true"
+14        android:fullBackupContent="false"
+14-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:9:9-42
+15        android:label="@string/app_name"
+15-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:10:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:11:9-35
+17        android:testOnly="true" >
+18        <activity android:name="com.selvasai.handwriting.MainActivity" >
+18-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:12:9-17:20
+18-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:12:19-47
+19            <intent-filter>
+19-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:13:13-16:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:14:17-69
+20-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:14:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:15:17-77
+22-->C:\Users\HP\AndroidStudioProjects\handwriting-recognition-example-android\app\src\main\AndroidManifest.xml:15:27-74
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>
